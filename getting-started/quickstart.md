@@ -7,11 +7,11 @@ icon: bolt
 
 This quickstart guide explains how to get set up in GitBook and publish your first docs site in minutes.
 
-At the end of this guide, you’ll have a live documentation site, ready to expand and customize.
+At the end of this guide, you’ll have a live documentation site, ready to expand and customize. Test
 
 {% stepper %}
 {% step %}
-#### Getting started
+**Getting started**
 
 You’ll need to [create an account](https://app.gitbook.com/join) before you can get started with your first documentation site.
 
@@ -25,7 +25,7 @@ Your content isn’t published yet — so you can edit, customize and preview yo
 {% endstep %}
 
 {% step %}
-#### Edit your content
+**Edit your content**
 
 There are two ways to edit and update your content in GitBook — in our visual editor, or following a docs-as-code workflow. **You can choose one, or use a combination of both**.
 
@@ -88,7 +88,7 @@ Once you’ve synced your space to your Git repository, you can update the conte
 Open the repository, create a pull request and make the changes you want.
 
 {% hint style="info" %}
-### Markdown editing
+#### Markdown editing
 
 GitBook supports [Markdown editing](../creating-content/formatting/markdown.md), so you can create and format content using common syntax.
 
@@ -113,7 +113,7 @@ In the GitBook app, every commit and your merged pull request will be synced to 
 {% endstep %}
 
 {% step %}
-#### Customize your docs
+**Customize your docs**
 
 <details>
 
@@ -143,7 +143,7 @@ You can customize your site’s [logo, colors and font](../publishing-documentat
 {% endstep %}
 
 {% step %}
-#### Publish your documentation
+**Publish your documentation**
 
 <details>
 
