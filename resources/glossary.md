@@ -4,8 +4,6 @@ icon: book-open
 
 # Glossary
 
-{% include "../.gitbook/includes/great.md" %}
-
 ### A
 
 **Actions menu:** The menu that opens when you click the three dots next to a page or item in the GitBook interface. The Actions menu may show different options depending on your current view mode.

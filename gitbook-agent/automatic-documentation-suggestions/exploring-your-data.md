@@ -45,7 +45,7 @@ Click **Inspect** <picture><source srcset="../../.gitbook/assets/25_12_12_inspec
 This inspector screen also shows any change requests GitBook Agent has created based off of the topic — ready for [you and your team to review](../../collaboration/change-requests/change-requests-screen.md).
 
 {% hint style="info" %}
-### Disabling a topic
+#### Disabling a topic
 
 If a topic isn’t valuable, you can toggle the topic off from its inspector screen. Once disabled, the topic will no longer be used to create change requests for your documentation.
 {% endhint %}
