@@ -54,7 +54,7 @@ When you add a heading to a page, it creates an anchor link. You can then link d
 
 ### Anchor links
 
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
+When you add a heading to a page, it creates an anchor link. You can then link directly to these&#x20;
 
 ### Anchor links
 
