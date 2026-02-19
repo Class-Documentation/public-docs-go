@@ -12,54 +12,6 @@ GitBook offers three levels of headings. Heading levels 1 (H1) and 2 (H2) will a
 
 When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
 
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these&#x20;
-
-### Anchor links
-
-When you add a heading to a page, it creates an anchor link. You can then link directly to these specific sections, to point people to relevant information.
-
 #### Link to an anchor
 
 You can see anchor links in public content, or private content in read-only mode, by hovering over the title and clicking the `#` that appears next to it. This will update the URL in your browser’s top bar, so you can copy it to use elsewhere.
