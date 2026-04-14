@@ -3,7 +3,7 @@
 ## Get Started <a href="#getting-started" id="getting-started"></a>
 
 * [GitBook documentation](README.md)
-* [Change page title](getting-started/quickstart.md)
+* [Quickstart](getting-started/quickstart.md)
 * [Concepts](getting-started/concepts.md)
 * [Migrate to GitBook](getting-started/import.md)
 * [AI-native documentation](getting-started/ai-documentation.md)
