@@ -5,7 +5,7 @@
 * [GitBook documentation](README.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Concepts](getting-started/concepts.md)
-* [Migrate to GitBook](getting-started/import.md)
+* [Change page title](getting-started/import.md)
 * [AI-native documentation](getting-started/ai-documentation.md)
 * [GitHub & GitLab Sync](getting-started/git-sync/README.md)
   * [Enabling GitHub Sync](getting-started/git-sync/enabling-github-sync.md)
