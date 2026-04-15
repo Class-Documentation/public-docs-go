@@ -2,12 +2,14 @@
 vars:
   page: test
 description: Get up and running in GitBook and publish your first docs site in minutes
+hidden: true
+noIndex: true
 icon: bolt
 ---
 
 # Quickstart
 
-This quickstart guide explains how to get set up in GitBook and publish your first docs site in minutes.
+This quickstart guide explains how to get set up in GitBook and publish your first docs site in minutes. test
 
 At the end of this guide, you’ll have a live documentation site, ready to expand and customize.
 
