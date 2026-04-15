@@ -3,6 +3,8 @@ description: >-
   Create and publish AI-native documentation your users will love. GitBook gives
   you intelligent tools to build product guides, API references, and
   documentation that improves over time.
+hidden: true
+noIndex: true
 icon: book-open
 ---
 
