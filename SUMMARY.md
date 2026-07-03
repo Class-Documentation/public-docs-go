@@ -1,8 +1,22 @@
 # Table of contents
 
+* [Page 1](README.md)
+
 ## Get Started <a href="#getting-started" id="getting-started"></a>
 
-* [GitBook documentation](README.md)
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+    downloadLink: true
+    grouping: by-tag
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: gitbook-original
+  ```
+* [GitBook documentation](<README (1).md>)
 * [Quickstart](getting-started/quickstart.md)
 * [Concepts](getting-started/concepts.md)
 * [Migrate to GitBook](getting-started/import.md)

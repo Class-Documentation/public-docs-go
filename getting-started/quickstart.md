@@ -13,15 +13,9 @@ This quickstart guide explains how to get set up in GitBook and publish your fir
 
 At the end of this guide, you’ll have a live documentation site, ready to expand and customize.
 
-
-
 Link using [relative link](concepts.md)
 
-[Concepts](https://app.gitbook.com/o/extZgXt87vC02MSeqOHu/s/bS7QQPLgDzMuaC61tcij/~/edit/~/changes/33/getting-started/concepts)
-
-
-
-
+[Concepts](concepts.md)
 
 {% stepper %}
 {% step %}
