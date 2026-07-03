@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Page 1](README.md)
+* [Integrations #GET /integrations - a link to a endpoint](https://app.gitbook.com/s/bS7QQPLgDzMuaC61tcij/getting-started/integrations#get-integrations)
+* [Integrations](/broken/pages/b3a13c8714340112d502ef06e38a2c41a529386c)
+* [GitBook Agent - link to markdown page](/broken/pages/X2LxgZLBrr5qAcGo4cTg)
 
 ## Get Started <a href="#getting-started" id="getting-started"></a>
 
